@@ -1,0 +1,6 @@
+framework module Pods_DeNovoTests {
+  umbrella header "Pods-DeNovoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
